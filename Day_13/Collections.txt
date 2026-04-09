@@ -1,0 +1,46 @@
+/*
+COLLECTIONS -> is a frame work of Dynamic data structure
+ for store and manipulate data efficiently
+
+ ITERABLE
+     -> COLLECTION
+         -> LIST
+              -> ARRAY LIST
+              -> LINKED LIST
+              -> VECTOR
+                 -> STACK
+
+         -> QUEUE
+            -> DEQUEUE
+         -> SET
+           -> HASH SET
+           -> TREE SET
+
+COMPARE TO ARRAY LIST HAVE 
+     ->EASY INSERTION
+     ->DELETION
+     ->DYNAMIC RESIZING
+     ->INBUILD METHODS
+     ->STORES WRAPER CLASS IN GENERIC 
+
+    DEFAULT SIZE=10
+    IF 11
+     NEW SIZE = OLD + (OLD/2)
+     NEW SIZE = 10+(10/2)=15
+    
+    LIST 
+     -> ORDERED DATA 
+     -> INDEX BASED ACCESSING
+     -> CAN STORE DUPLICATES
+     METHODS
+       add()
+       get()
+       remove()
+       removeAll()
+       set()
+       contains()
+       clear()
+       size()
+       Collection.sort()
+       collections.reverse()
+*/
